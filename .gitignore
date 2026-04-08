@@ -1,0 +1,20 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Backend
+backend/firebase-service-account.json
+backend/.env
+
+# Mobile
+mobile/.env
+mobile/android/.gradle/
+mobile/android/build/
+mobile/android/app/build/
+mobile/android/app/src/main/assets/index.android.bundle
+mobile/android/local.properties
+mobile/.bundle/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node src/server.js)",
+      "Bash(echo \"EXIT:$?\")"
+    ]
+  }
+}

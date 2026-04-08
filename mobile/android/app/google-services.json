@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686508158899",
+    "project_id": "mhien-d8009",
+    "storage_bucket": "mhien-d8009.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686508158899:android:fbdaf3e1a742b88a1b25c6",
+        "android_client_info": {
+          "package_name": "com.shipperfinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-7wKot6bWnEwOHEuKr8J8fXhn10OGV5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
